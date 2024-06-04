@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DiidiTheCreator
-- 👀 I’m interested in dabbling in gamedev but currently build productivity software.
+- 👀 I’m interested software and game development.
 - 🌱 I’m currently learning Python... and Korean!
-- 💞️ I’m looking to collaborate on small volunteer projects that can be completed within 6 months or so.
-- 📫 How to reach me irvinginquiry @ gmail (dot) com
+- 💞️ I’m not looking for a relationship, fling, nor situationship although I am single.
+- 📫 How to reach me: DM me here or on instagram at Dijah.exe
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to rollerskate! (Yes I can skate backwards. I get asked this SO often. haha)
+- ⚡ Fun fact: I like to rollerskate! I'm a rhythm skater. Its super fun~
 
 <!---
 DiidiTheCreator/DiidiTheCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
